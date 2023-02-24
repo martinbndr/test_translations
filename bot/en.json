@@ -1,0 +1,59 @@
+{
+  "monitor": {
+    "nothingbot": "No Bot is currently under surveillance",
+    "nothingmachines": "No Machine is currently under surveillance",
+    "appunderS": "Applications under surveillance : ",
+    "munderS": "Machines under surveillance : ",
+    "last7days": "Last 7 days",
+    "noresult": "No results saved",
+    "err_shards": "Shard Error",
+    "uns_shards": "Shards Unstable",
+    "lotofbots": "You have over 25 bots under surveillance and I cannot view them. To view them, please go to Watchbot Dashboard.",
+    "wsyncFooter": "Last update:"
+  },
+  "help": {
+    "title": "Watchbot - Commands List",
+    "desc": "**NOTE :** You must have `Manage Guild` permission to execute commands. Configure the robot on [Watchbot Dashboard](https://watchbot.app/dashboard)",
+    "addField3": "Management Commands",
+    "descField3": ":white_small_square: `{PREFIX}watchlist` : List of robots monitored on the current server\n:white_small_square: `{PREFIX}nickname` : Sets the bot's Nickname on the server",
+    "addField5": "Other Commands [No permissions required]",
+    "descField5": ":white_small_square: `{PREFIX}invite` : Link to the Watchbot Dashboard\n:white_small_square: `{PREFIX}support` : Generate a link to the support server\n:white_small_square: `{PREFIX}info` : See information on the Robot\n:white_small_square: `{PREFIX}account` : See your informations\n:white_small_square: `{PREFIX}partners` : See our Partners",
+    "sent": ":books: | **{user}**, you received the commands in private messages.\n:white_small_square: **Support Server :** {link_support}",
+    "error_send": "an error has occurred, please check that your private messages are activated"
+  },
+  "presenceUpdate": {
+    "is": "is",
+    "on": "on",
+    "offbot": "OFFLINE",
+    "onbot": "ONLINE",
+    "dm_title": "Watchbot - Notification",
+    "contact": "If you have any questions, you can create a request on"
+  },
+  "mod_titre_embed": {
+    "Field1": "Current setting",
+    "Field2": "Modify the Parameter"
+  },
+  "account": {
+    "titre": "Account Information",
+    "Field1": "DM Notifications",
+    "Field2": "Email Notifications",
+    "Field3": "SMS Notifications",
+    "status": [
+      "Enabled",
+      "Disabled"
+    ]
+  },
+  "info": {
+    "support": "Support Server",
+    "creator": "Creator",
+    "guilds": "Guilds",
+    "users": "Users",
+    "links": "Our Links",
+    "surveillance": "Surveillance Targets"
+  },
+  "nickname": {
+    "confirm": "New nickname :",
+    "err": "I do not have permission to change my nickname",
+    "errL": "My nickname must be less than 32 characters"
+  }
+}

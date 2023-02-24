@@ -1,0 +1,59 @@
+{
+  "monitor": {
+    "nothingbot": "Nenhum Bot está sob vigilância",
+    "nothingmachines": "Nenhuma máquina está atualmente sob vigilância",
+    "appunderS": "Applicações sob vigilância : ",
+    "munderS": "Máquinas sob vigilância : ",
+    "last7days": "Últimos 7 dias",
+    "noresult": "Nenhum resultado salvo",
+    "err_shards": "Erro de Shard",
+    "uns_shards": "Shards Instáveis",
+    "lotofbots": "Você tem mais de 25 bots sob vigilância e não consigo visualizá-los. Para visualizá-los, acesse o painel do Watchbot.",
+    "wsyncFooter": "Última atualização:"
+  },
+  "help": {
+    "title": "Watchbot - Lista de Comandos",
+    "desc": "**NOTA :** Você deve ter a permissão `Gerenciar Servidor` para executar os comandos. Configure os bots no [Painel do Watchbot](https://watchbot.app/dashboard)",
+    "addField3": "Gerenciar Comandos",
+    "descField3": ":white_small_square: `{PREFIX}watchlist` : Lista de bots monitorados no servidor atual\n:white_small_square: `{PREFIX}nickname` : Define o apelido do bot no servidor",
+    "addField5": "Outros Comandos [Não requer permissões]",
+    "descField5": ":white_small_square: `{PREFIX}invite` : Link para o painel do Watchbot\n:white_small_square: `{PREFIX}support` : Genera um link para o servidor de suporte\n:white_small_square: `{PREFIX}info` : Mostra informações sobre o bot\n:white_small_square: `{PREFIX}account` : Mostra suas informações\n:white_small_square: `{PREFIX}partners` : Mostra nossos parceiros",
+    "sent": ":books: | **{user}**, você recebeu os comandos no seu privado.\n:white_small_square: **Servidor de Suporte :** {link_support}",
+    "error_send": "ocorreu um erro, verifique se suas mensagens privadas estão ativadas"
+  },
+  "presenceUpdate": {
+    "is": "está",
+    "on": "online",
+    "offbot": "DESCONECTADO",
+    "onbot": "ONLINE",
+    "dm_title": "Watchbot - Notificações",
+    "contact": "Se você tiver alguma dúvida, você pode criar uma solicitação em"
+  },
+  "mod_titre_embed": {
+    "Field1": "Configuração atual",
+    "Field2": "Modifique o Parâmetro"
+  },
+  "account": {
+    "titre": "Informação da conta",
+    "Field1": "Notificações na DM",
+    "Field2": "Notificações por E-mail",
+    "Field3": "Notificações via SMS",
+    "status": [
+      "Habilitado",
+      "Desabilitado"
+    ]
+  },
+  "info": {
+    "support": "Servidor de Suporte",
+    "creator": "Criador",
+    "guilds": "Servidores",
+    "users": "Usuários",
+    "links": "Nossos Links",
+    "surveillance": "Alvos de Vigilância"
+  },
+  "nickname": {
+    "confirm": "Novo apelido :",
+    "err": "Não tenho permissão para mudar meu apelido",
+    "errL": "Meu apelido deve conter menos de 32 caracteres"
+  }
+}

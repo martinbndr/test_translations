@@ -1,0 +1,59 @@
+{
+  "monitor": {
+    "nothingbot": "Ningún bot está actualmente bajo vigilancia",
+    "nothingmachines": "No hay máquinas actualmente bajo vigilancia",
+    "appunderS": "Aplicaciones bajo vigilancia : ",
+    "munderS": "Bots bajo vigilancia : ",
+    "last7days": "7 últimos días",
+    "noresult": "No se ha registrado ningún resultado",
+    "err_shards": "Error Shard",
+    "uns_shards": "Shards Inestable",
+    "lotofbots": "Tienes más de 25 bots bajo vigilancia y no puedo mostrarlos todos. Para verlos, por favor vaya a Watchbot Dashboard.",
+    "wsyncFooter": "Dernière mise à jour :"
+  },
+  "help": {
+    "title": "Watchbot - Lista de controles",
+    "desc": "**NOTA :** Debe tener permiso de `Administrar el servidor` ejecutar los comandos. La configuración del bot se hace en el  [Watchbot Dashboard](https://watchbot.app/dashboard)",
+    "addField3": "Controles de gestión",
+    "descField3": ":white_small_square: `{PREFIX}watchlist` : Lista de bots bajo vigilancia en el servidor actual\n:white_small_square: `{PREFIX}nickname` : Establece el apodo del bot en el servidor",
+    "addField5": "Autres Commandes [Aucune permissions nécessaires]",
+    "descField5": ":white_small_square: `{PREFIX}invite` : Enlace hacia Watchbot Dashboard\n:white_small_square: `{PREFIX}support` : Genera un enlace al servidor de soporte\n:white_small_square: `{PREFIX}info` :Mirar las informaciones sobre el bot\n:white_small_square: `{PREFIX}account` : Mirar las informaciones\n:white_small_square: `{PREFIX}partners` : Vea nuestros socios ",
+    "sent": ":books: | **{user}**, hace recibido las informaciones por MP.\n:white_small_square: **Servidor Support :** {link_support}",
+    "error_send": "Un error ha ocurrido, por favor compruebe que sus mensajes privados están activados"
+  },
+  "presenceUpdate": {
+    "is": "es",
+    "on": "sobre",
+    "offbot": "OFF-LINE",
+    "onbot": "EN LINEA",
+    "dm_title": "Watchbot - Notification",
+    "contact": "Si tiene alguna pregunta, puede crear una solicitud en"
+  },
+  "mod_titre_embed": {
+    "Field1": "El ajuste actual",
+    "Field2": "Modificar el ajuste"
+  },
+  "account": {
+    "titre": "Información de la cuenta",
+    "Field1": "Notificaciones en MP",
+    "Field2": "Notificaciones por mail",
+    "Field3": "Notificaciones por SMS",
+    "status": [
+      "Activado",
+      "Desactivado"
+    ]
+  },
+  "info": {
+    "support": "Servidor Support",
+    "creator": "Creator",
+    "guilds": "Servidores",
+    "users": "Usuarios",
+    "links": "Nuestros enlaces",
+    "surveillance": "Bots bajo vigilancia"
+  },
+  "nickname": {
+    "confirm": "Nuevo apodo :",
+    "err": "No tengo el permiso de cambiar mi nombre",
+    "errL": "Mi apodo tiene que ser inferior a 32 caracteres"
+  }
+}

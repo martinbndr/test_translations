@@ -1,0 +1,59 @@
+{
+  "monitor": {
+    "nothingbot": "Aucun Bot n'est actuellement sous surveillance",
+    "nothingmachines": "Aucune machine n'est actuellement sous surveillance",
+    "appunderS": "Applications sous surveillance : ",
+    "munderS": "Machines sous surveillance : ",
+    "last7days": "7 derniers jours",
+    "noresult": "Aucun résultats enregistrés",
+    "err_shards": "Erreur Shard",
+    "uns_shards": "Shards Instables",
+    "lotofbots": "Vous possédez plus de 25 bots sous surveillance et je ne peux les afficher. Pour les visualiser, veuillez vous rendre sur Watchbot Dashboard.",
+    "wsyncFooter": "Dernière mise à jour :"
+  },
+  "help": {
+    "title": "Watchbot - Liste des Commandes",
+    "desc": "**NOTE :** Vous devez posséder la permission `Gérer le Serveur` pour exécuter les commandes. La configuration du Robot se fait sur [Watchbot Dashboard](https://watchbot.app/dashboard)",
+    "addField3": "Commandes de Gestion",
+    "descField3": ":white_small_square: `{PREFIX}watchlist` : Liste de robots surveillés sur le serveur actuel\n:white_small_square: `{PREFIX}nickname` : Définit le surnom du bot sur le serveur",
+    "addField5": "Autres Commandes [Aucune permissions nécessaires]",
+    "descField5": ":white_small_square: `{PREFIX}invite` : Lien vers Watchbot Dashboard\n:white_small_square: `{PREFIX}support` : Génère un lien vers le serveur support\n:white_small_square: `{PREFIX}info` : Voir les informations sur le Robot\n:white_small_square: `{PREFIX}account` : Voir vos informations\n:white_small_square: `{PREFIX}partners` : Voir nos Partenaires",
+    "sent": ":books: | **{user}**, vous avez reçu les commandes en messages privés.\n:white_small_square: **Serveur Support :** {link_support}",
+    "error_send": "une erreur s'est produite, veuillez vérifier que vos messages privés sont activés"
+  },
+  "presenceUpdate": {
+    "is": "est",
+    "on": "sur",
+    "offbot": "HORS LIGNE",
+    "onbot": "EN LIGNE",
+    "dm_title": "Watchbot - Notification",
+    "contact": "Si vous avez des questions, vous pouvez créer une demande sur"
+  },
+  "mod_titre_embed": {
+    "Field1": "Paramètre actuel",
+    "Field2": "Modifier le Paramètre"
+  },
+  "account": {
+    "titre": "Information de Compte",
+    "Field1": "Notifications en MP",
+    "Field2": "Notifications par mail",
+    "Field3": "Notifications par SMS",
+    "status": [
+      "Activé",
+      "Désactivé"
+    ]
+  },
+  "info": {
+    "support": "Serveur Support",
+    "creator": "Créateur",
+    "guilds": "Serveurs",
+    "users": "Utilisateurs",
+    "links": "Nos Liens",
+    "surveillance": "Applications sous Surveillance"
+  },
+  "nickname": {
+    "confirm": "Nouveau pseudo :",
+    "err": "Je n'ai pas la permission de modifier mon pseudo",
+    "errL": "Mon pseudo doit être inférieur à 32 caractères"
+  }
+}

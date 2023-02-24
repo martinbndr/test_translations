@@ -1,0 +1,930 @@
+{
+  "site": {
+    "header": {
+      "moni": "Monitoring",
+      "cert": "Certification",
+      "vip": "VIP",
+      "login": "Login",
+      "logout": "Log Out",
+      "servers": "My servers"
+    },
+    "footer": {
+      "column1": {
+        "title": "Bot",
+        "element": [
+          "Dashboard",
+          "VIP"
+        ]
+      },
+      "column2": {
+        "title": "Resources",
+        "element": [
+          "Support",
+          "Monitoring",
+          "Certification",
+          "Developers"
+        ]
+      },
+      "column3": {
+        "title": "Group",
+        "element": [
+          "Mareel Group"
+        ]
+      },
+      "column4": {
+        "title": "Policies",
+        "element": [
+          "Terms",
+          "Privacy"
+        ]
+      }
+    },
+    "home": {
+      "titlePage": "Watchbot",
+      "title": {
+        "title": "Monitor bots on your Discord server!",
+        "desc": [
+          "Configure Watchbot in 5mins with our fast and intuitive interface",
+          "FREE"
+        ],
+        "buttons": [
+          "Add on your server",
+          "See features"
+        ]
+      },
+      "trust": {
+        "title": "They trust us"
+      },
+      "pres": {
+        "block1": {
+          "title": "Different notification systems",
+          "desc": "We have 5 types of notifications: Discord Channel, Private Message, Email, the Telegram app or Discord Webhook."
+        },
+        "block2": {
+          "title": "Status Page",
+          "desc": "With Watchbot, you will be able to see a robot's uptime and see its incidents over the last 90 days."
+        }
+      },
+      "lang": {
+        "title": "Watchbot is available in these languages :",
+        "desc": [
+          "Currently we are keeping an eye on",
+          "servers for nearly",
+          "users."
+        ]
+      },
+      "partners": {
+        "title": "Partners",
+        "btn": "Learn more"
+      }
+    },
+    "certification": {
+      "titlePage": "Bot Certification – Watchbot",
+      "title": {
+        "title": "Let your community know it's you",
+        "desc": "Get your robot certified and show everyone that it is an official robot",
+        "btn": "Apply"
+      },
+      "pblocks": {
+        "block1": {
+          "title": "Show others that you are not playing in the same class",
+          "desc": "Have the 'Certified' badge on your bot page"
+        },
+        "block2": {
+          "title": "Keep track of your robot's downtime",
+          "desc": "Observe the stops of your robot to keep an eye on them. You are the boss!"
+        },
+        "block3": {
+          "title": "Notify your community in the event of an incident",
+          "desc": "Create incidents to keep your community informed and explain the problem in real time"
+        }
+      },
+      "faq": {
+        "title": "FAQ",
+        "questions": {
+          "question1": {
+            "title": "I'm a fan of a robot but not the owner, can I have it certified?",
+            "response": "No, only the robot owner can have it certified."
+          },
+          "question2": {
+            "title": "What do I need to have my robot certified?",
+            "response": "To obtain the certification of your robot, you must add Watchbot to your server ;)"
+          },
+          "question3": {
+            "title": "I have a question, where can I contact you?",
+            "response": "You can contact us directly on"
+          }
+        }
+      }
+    },
+    "monitoring": {
+      "titlePage": "Monitoring – Watchbot",
+      "title": {
+        "title": "The best surveillance bot.",
+        "desc": [
+          "Begin to monitor your bots and get notified",
+          "quickly",
+          "during an incident"
+        ],
+        "btn": "Add to Discord"
+      },
+      "pres": {
+        "block1": {
+          "title": "WSync",
+          "desc": "Wsync, a nice message named 'embed' in your favorite channel refreshing every 5 minutes with the latest uptimes. Be the king of monitoring !"
+        },
+        "block2": {
+          "title": "Different notification systems",
+          "desc": "We have 5 types of notifications: Discord Channel, Private Message, Email, the Telegram app or Discord Webhook."
+        },
+        "block3": {
+          "title": "Status Page",
+          "desc": "With Watchbot, you will be able to see a robot's uptime and see its incidents over the last 90 days."
+        },
+        "block4": {
+          "title": "Webstatus",
+          "desc": "Share with your members the list of bots monitored by Watchbot on your server and get the uptime within 90/30/7 days."
+        }
+      }
+    },
+    "vip": {
+      "titlePage": "VIP – Watchbot",
+      "title": {
+        "title": "Watchbot VIP.",
+        "desc": "Boost your Watchbot experience for less. Enjoy 100% of Watchbot's features !"
+      },
+      "prices": {
+        "desc": "per month",
+        "trial": "7 days free",
+        "billtxt1": "billed monthly",
+        "billtxt6": "billed every 6 months",
+        "reco": "Recommended",
+        "block1": {
+          "btn": "Get the VIP offer"
+        },
+        "block2": {
+          "btn": "Get the VIP+ offer"
+        }
+      },
+      "table": {
+        "title": "Look at the advantages that will be offered to you.",
+        "head": ["Plans comparison", "Free", "VIP", "VIP+"],
+        "lines": [
+          "Number of robots monitored",
+          "Webstatus",
+          "Webstatus - VanityURL",
+          "Channel Alerts",
+          "Channel Alerts - Embed",
+          "Directs Messages Alerts",
+          "Email Alerts",
+          "Telegram Alerts",
+          "Discord Webhook Alerts",
+          "'WSync' system",
+          "Incident management on your Page Bot*",
+          "Robot shutdown history*",
+          "Personnalisation de votre Page Bot*",
+          "Bot Page - Vanity URL*",
+          "[API] Retrieve your robots' disconnection information*"
+        ],
+        "erratum": [
+          "*You must have a robot",
+          "certified by Watchbot"
+        ]
+      }
+    },
+    "gift": {
+      "title": "Oh! You received a gift",
+      "serveurs": "Please select a server",
+      "noserveurs": "No server found on this Discord account",
+      "button": "Add"
+    },
+    "terms": {
+      "titlePage": "Terms of Service – Watchbot",
+      "title": "Watchbot Terms of Service",
+      "articles": [
+        {
+          "title": "Article 1: Presentation",
+          "text": [
+            "Welcome to the Watchbot website! These Terms of Use are a legal agreement between",
+            "(watchbot headquarters) and you. By browsing, using, visiting the site",
+            "(the \"site\") and its third-party applications, you agree to have the digital majority in your country and to have read the",
+            "Discord Inc. Terms of Service"
+          ]
+        },
+        {
+          "title": "Article 2: Content on this website",
+          "text": [
+            "The site and each of its elements, brands, logos, computer graphics, photographs, which compose it are protected under international intellectual property legislation.",
+            "Some icons on the site belong to",
+            "and are protected by an",
+            "Universal multimedia license",
+            "Any reproduction, representation, modification, publication, adaptation of all or part of the elements of the site, whatever the means or process used, is prohibited without the prior written consent of Mareel Group."
+          ]
+        },
+        {
+          "title": "Article 3: Use",
+          "text": [
+            "The site is offered in different web languages such as HTML, CSS, etc... For better user comfort and more pleasant graphics, we recommend that you use modern browsers such as Safari, Google Chrome, Microsoft Edge etc... The site uses a technology under JavaScript, if JavaScript is disabled on your browser, navigation on the site will be impossible for you.",
+            "Mareel Group. makes every effort to ensure reliable information and reliable updating of its websites. However, errors can occur.",
+            "Mareel Group. and its subsidiaries are in no way responsible for the use made of this information, and for any direct or indirect damage."
+          ]
+        },
+        {
+          "title": "Article 4: Hypertext links and Cookies",
+          "text": [
+            "The site and its subdomains contain a number of hypertext links to other sites. The site does not have the ability to verify the content of the sites thus visited, and therefore assumes no liability for this fact.",
+            "Browsing the site may cause the installation of cookie(s) on the user's computer. A cookie is a small file, which does not allow the user to be identified, but which records information relating to the navigation of a computer on a site. The data thus obtained are intended to facilitate subsequent navigation on the site, and are also intended to allow various measures of attendance."
+          ]
+        },
+        {
+          "title": "Article 5: VIP subscriptions",
+          "text": [
+            "Billing:",
+            "By purchasing a VIP membership, you authorize us to bill for 31 days only. Your payment to Mareel Group. will not be automatically renewed and you will need to go to Watchbot Dashboard in order to proceed with the payment of a new month if you wish.",
+            "Cancellation / Refund:",
+            "Any purchase made is neither refundable nor exchangeable, if you no longer want a VIP Watchbot, you will have to wait until the due date and not renew the payment."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "titlePage": "Privacy Policy – Watchbot",
+      "title": "Watchbot Privacy Policy",
+      "articles": [
+        {
+          "title": "Article 1: Why and how do we collect your data?",
+          "text": [
+            "Watchbot primarily provides an automated application for chat and social platforms (the \"application\"), manageable through our website (the \"site\", \"Watchbot Dashboard\", the \"Dashboard\") and operated by Watchbot Staff (\"Watchbot Staff\", \"we\") for users of the service (\"you\"). This privacy policy sets out our policy with respect to information collected from users of the application. Watchbot Staff is the \"controller\" of personal data collected throughout your use of the application."
+          ]
+        },
+        {
+          "title": "Article 2: What information do we collect?",
+          "text": [
+            "When you interact with us through the Dashboard, we may collect information about you, as described in more detail below. We collect information from you when you voluntarily provide such information. For example, when you post a certification request or when you make a purchase. The information we collect may include, but is not limited to:",
+            "User Data :",
+            "We store the user ID, email address when you post a certification request. We store your user ID when you make a purchase or when you start a free trial of our products on our site.",
+            "Guild Data :",
+            "We store your server ID, owner ID, channel IDs. When you make a purchase on our site, we also store your server ID.",
+            "PayPal Data :",
+            "We store your email address, the payment ID, your ID, your First name, your Last name."
+          ]
+        },
+        {
+          "title": "Article 3: Where are our data processed?",
+          "text": [
+            "Watchbot Staff is based in France. You consent to the processing and transfer of your information in France. The laws of France and other countries governing the collection and use of data may not be as complete or protective as the laws of the country where you live. Our servers are located in France (Roubaix, Paris and Nice)."
+          ]
+        },
+        {
+          "title": "Article 4: What do we do with your data?",
+          "text": [
+            "We use the information you provide in a manner consistent with this privacy policy. We use your data for:",
+            "- Allow data and settings to be securely stored under an account.",
+            "- Comply with legal requirements",
+            "We do not sell your data."
+          ]
+        },
+        {
+          "title": "Article 5: How long do we store your data?",
+          "text": [
+            "All your data stored on our servers remains there as long as you use our services."
+          ]
+        },
+        {
+          "title": "Article 6: Questions?",
+          "text": [
+            "If you have any questions about our Privacy Policy, you can write an email to"
+          ]
+        }
+      ]
+    },
+    "cookies": {
+      "author": ["Watchbot", "a subsidiary of Mareel Group."],
+      "title": "Before accessing Watchbot",
+      "text": [
+        "Mareel Group. uses cookies and other data to:",
+        "Measure site statistics in order to understand how our services are used."
+      ],
+      "button": "I accept"
+    }
+  },
+  "dashboard": {
+    "header": {
+      "plug": "Plugins",
+      "sett": "Settings",
+      "vip": "VIP",
+      "login": "Login",
+      "logout": "Log Out"
+    },
+    "pop-up": {
+      "warnings": {
+        "emptyFields": ["Some fields are empty", "Oups!"],
+        "incorrectUserID": ["UserID incorrect", "Oups!"],
+        "alertsFull": ["Alert limit reached", "Oups!"],
+        "chatTelegramDisabled": ["Watchbot is not present in this chat", "Oups!"],
+        "vanityAlreadyExist": ["This VanityURL already exists", "Oups!"],
+        "termsNotValid": ["You have not accepted the terms", "Oups!"]
+      },
+      "errors": {
+        "error": ["An error has occured please refresh the page or try again later", "Oh!"],
+        "watchlistLimit": ["You have reached the limit of your Watchlist", "Oh!"],
+        "noWebhook": ["Looks like Watchbot doesn't have permission to View / Manage Webhooks for this channel", "Oh!"],
+        "noCNAME": ["A problem occurred while reading your CNAME records. Make sure you correctly added the requested CNAME record to your domain.", "Oh!"]
+      },
+      "info": {
+        "wait": ["Please wait...", "Wait!"],
+        "wsyncUpdate": ["Patientez jusqu'au prochain raffraichissement", "He!"]
+      },
+      "success": {
+        "allSaved": ["All changes have been saved", "Good!"],
+        "botAdded": ["The robot has been added successfully", "Good!"],
+        "botDeleted": ["The robot has been deleted successfully", "Good!"],
+        "incidentCreated": ["Incident has been created successfully", "Good!"],
+        "incidentDeleted": ["Incident has been deleted successfully", "Good!"],
+        "statusCreated": ["Status has been created successfully", "Good!"],
+        "statusDeleted": ["Status has been deleted successfully", "Good!"],
+        "memberAdded": ["The member has been added successfully", "Good!"],
+        "memberDeleted": ["The member has been deleted successfully", "Good!"],
+        "emailAdded": ["The email has been added successfully", "Good!"],
+        "emailDeleted": ["The email has been deleted successfully", "Good!"],
+        "telegramAdded": ["Chat has been added successfully", "Super !"],
+        "telegramDeleted": ["Chat has been deleted successfully", "Super !"],
+        "wsyncSent": ["WSync has been created successfully", "Good!"],
+        "wsyncDeleted": ["WSync has been deleted successfully", "Good!"],
+        "domainAdded": ["Domain saved, available within 5 minutes to 48 hours", "Good!"],
+        "vipTrialAdded": ["Welcome to the Watchbot VIP program! Enjoy your trial for 7 days.", "Good!"]
+      },
+      "popSave": {
+        "txt": "Changes detected! Please save",
+        "btn_cancel": "Cancel",
+        "btn_save": "Save"
+      },
+      "modalVip": {
+        "title": "Watchbot VIP",
+        "desc": "You have discovered a VIP feature",
+        "btns": {
+          "vip": "VIP",
+          "no": "No thanks"
+        }
+      }
+    },
+    "dashboard": {
+      "serveurs": "Please select a server",
+      "noserveurs": "No server found on this Discord account",
+      "bots": "Please select a Bot",
+      "nobots": "No bot found on this Discord account",
+      "btns": {
+        "manage": "Manage",
+        "invite": "Invite"
+      }
+    },
+    "bot_customization": {
+      "title": "Page Customization",
+      "btns": {
+        "save": "Save",
+        "default": "Reset"
+      },
+      "column1": [
+        "Background color",
+        "Background picture (optional)",
+        "Bot text banner color",
+        "Bot Tag Text Color",
+        "Text color",
+        "Incident text color",
+        "Couleur des annonces"
+      ],
+      "column2": [
+        "SEO - Theme color"
+      ]
+    },
+    "bot_history": {
+      "title": "History",
+      "form-group": {
+        "title": "History (Last 30 days)",
+        "tableHead": ["Date", "Duration"]
+      }
+    },
+    "bot_incidents": {
+      "title": "Incidents",
+      "form-group": {
+        "title": "List of incidents",
+        "btn": "Add incident",
+        "table": {
+          "tableHead": ["ID", "Date", "Type", "Title", "Actions"]
+        }
+      }
+    },
+    "bot_incidents_add": {
+      "title": ["Incidents", "Add"],
+      "btn": "Create",
+      "forms": {
+        "form-group1": {
+          "title": "Incident date"
+        },
+        "form-group2": {
+          "title": "Type of incident",
+          "typeList": [
+            "Partial Outage",
+            "Major Outage"
+          ]
+        },
+        "form-group3": {
+          "title": "Incident title"
+        }
+      }
+    },
+    "bot_incidents_edit": {
+      "title": "Incidents",
+      "btns": {
+        "save": "Save",
+        "addStatus": "Add status"
+      },
+      "forms": {
+        "form-group1": {
+          "title": "Edit the type of incident",
+          "typeList": [
+            "Partial Outage",
+            "Major Outage"
+          ]
+        },
+        "form-group2": {
+          "title": "Edit incident title"
+        },
+        "form-group3": {
+          "title": "Status list",
+          "tableHead": [
+            "ID",
+            "Badge",
+            "Content",
+            "Actions"
+          ]
+        }
+      }
+    },
+    "bot_overview": {
+      "pres": {
+        "metrics": {
+          "title": "Keys Metrics",
+          "blocks": {
+            "title": ["Total servers where your Bot is Offline", "Total servers monitoring your Bot"]
+          }
+        },
+        "plugins": {
+          "title": "Bot Page",
+          "blocks": {
+            "block1": {
+              "title": "Incidents",
+              "desc": "Creating / Editing / Deleting incidents has never been so easy."
+            },
+            "block2": {
+              "title": "History",
+              "desc": "What days has my robot been offline? The answer is here!"
+            },
+            "block3": {
+              "title": "Page Customization",
+              "desc": "Edit the colors of your page to make it even prettier."
+            },
+            "block4": {
+              "title": "Widgets",
+              "desc": "A small widget to display on your website."
+            }
+          }
+        }
+      }
+    },
+    "bot_settings": {
+      "forms": {
+        "form-group1": {
+          "title": "Création d'incident automatique",
+          "listInciAuto": [
+            "Do not create an incident automatically",
+            "Create an incident when a shard goes offline",
+            "Create an incident when all shards go offline"
+          ]
+        },
+        "form-group2": {
+          "title": "Announcement"
+        },
+        "form-group3": {
+          "title": "Custom domain",
+          "tutorial": {
+            "desc": "Add this CNAME record to your domain by visiting your DNS provider or registar."
+          }
+        },
+        "form-group4": {
+          "title": "Watchbot Developers",
+          "btn": "\uD83D\uDC40 See my API key"
+        }
+      }
+    },
+    "bot_status_add": {
+      "title": ["Incidents", "Add"],
+      "btn": "Create",
+      "forms": {
+        "form-group1": {
+          "title": "Incident badge",
+          "listBadges": [
+            "Resolved",
+            "Monitoring",
+            "Investigating",
+            "Identified",
+            "Update"
+          ]
+        },
+        "form-group2": {
+          "title": "Status content"
+        }
+      }
+    },
+    "bot_status_edit": {
+      "title": "Incidents",
+      "btn": "Save",
+      "forms": {
+        "form-group1": {
+          "title": "Edit the status badge",
+          "listBadges": [
+            "Resolved",
+            "Monitoring",
+            "Investigating",
+            "Identified",
+            "Update"
+          ]
+        },
+        "form-group2": {
+          "title": "Edit status content"
+        }
+      }
+    },
+    "bot_widgets": {
+      "title": "Widgets",
+      "widgets": [
+        "Widget - Clear Theme",
+        "Widget - Dark Theme"
+      ]
+    },
+    "guild_alerts_channel": {
+      "title": "Channel Alerts",
+      "selects": [
+        "Please select a channel",
+        "Please select a role"
+      ],
+      "btns": {
+        "save": "Save"
+      },
+      "forms": {
+        "form-group1": {
+          "title": "Activate Channel Alerts"
+        },
+        "form-group2": {
+          "title": "Edit the channel where you will be notified"
+        },
+        "form-group3": {
+          "title": "Edit the role to mention"
+        },
+        "form-group4": {
+          "title": "Edit the member to mention",
+          "span": ["Please enter the", "USERID"]
+        },
+        "form-group5": {
+          "title": "Custom your message",
+          "varTitle": "Variables",
+          "variables": [
+            "Robot Status Emoji Discord",
+            "Robot ID",
+            "Robot tag",
+            "Mention of the bot",
+            "Bot Status",
+            "Bot Status page"
+          ],
+          "defaultMessage": "{emojis.status} | {bot.mention} ({bot.tag}) is **{bot.status}**",
+          "block": {
+            "titles": ["Response", "Embed color"],
+            "buttons": ["Embed"],
+            "embed": {
+              "ph_title": "Title text",
+              "ph_title_url": "Title URL",
+              "ph_description": "Content text",
+              "ph_footer": "Footer text"
+            }
+          }
+        }
+      }
+    },
+    "guild_alerts_dm": {
+      "title": "Directs Messages Alerts",
+      "btn": "Add",
+      "forms": {
+        "form-group1": {
+          "title": "Add a user to alerts",
+          "btn": "Add"
+        },
+        "form-group2": {
+          "title": "List of users alerted",
+          "tableHead": ["User TAG", "User ID", "Actions"]
+        }
+      }
+    },
+    "guild_alerts_email": {
+      "title": "Email Alerts",
+      "btn": "Add",
+      "forms": {
+        "form-group1": {
+          "title": "Add a user to alerts",
+          "span": ["Please enter the", "USERID"]
+        },
+        "form-group2": {
+          "title": "List of users alerted",
+          "tableHead": ["Owner TAG", "Owner ID", "Email", "Actions"]
+        }
+      }
+    },
+    "guild_alerts_telegram": {
+      "title": "Telegram Alerts",
+      "btn": "Add",
+      "forms": {
+        "form-group1": {
+          "title": "Add a chat to alerts",
+          "span": ["Please enter the", "CHAT_ID"]
+        },
+        "form-group2": {
+          "title": "List of alerted chats",
+          "tableHead": ["Username / Group Name", "Chat ID", "Actions"]
+        }
+      }
+    },
+    "guild_alerts_webhook": {
+      "title": "Discord Webhook",
+      "btn": "Save",
+      "forms": {
+        "form-group1": {
+          "title": "Activate Webhook"
+        },
+        "form-group2": {
+          "title": "Edit the channel where notifications will be sent",
+          "select": "Please select a channel"
+        },
+        "form-group3": {
+          "title": "Custom your message",
+          "varTitle": "Variables",
+          "variables": [
+            "Robot Status Emoji Discord",
+            "Robot ID",
+            "Robot tag",
+            "Mention of the bot",
+            "Bot Status",
+            "Bot Status page"
+          ],
+          "defaultMessage": "{emojis.status} | {bot.mention} ({bot.tag}) is **{bot.status}**",
+          "block": {
+            "titles": ["Response", "Embed color"],
+            "buttons": ["Embed"],
+            "embed": {
+              "ph_title": "Title text",
+              "ph_title_url": "Title URL",
+              "ph_description": "Content text",
+              "ph_footer": "Footer text"
+            }
+          }
+        }
+      }
+    },
+    "guild_overview": {
+      "pres": {
+        "pres1": {
+          "title": "Utilities",
+          "blocks": {
+            "block1": {
+              "title": "Watchlist Bots",
+              "desc": "Add bots to the watchlist and get notified when they go offline."
+            },
+            "block2": {
+              "title": "Webstatus",
+              "desc": "Get an overview of the robots monitored by Watchbot on your server & share it with your members."
+            },
+            "block3": {
+              "title": "WSync",
+              "desc": "Embed reactive with the uptime of your robots refreshing every 5mins in your favorite channel."
+            }
+          }
+        },
+        "pres2": {
+          "title": "Alerts",
+          "blocks": {
+            "block1": {
+              "title": "Channel Alerts",
+              "desc": "To be alerted in your favorite channel !"
+            },
+            "block2": {
+              "title": "DM Alerts",
+              "desc": "To be notified directly in your private messages."
+            },
+            "block3": {
+              "title": "Email Alerts",
+              "desc": "Be notified in your mailbox."
+            },
+            "block4": {
+              "title": "Telegram",
+              "desc": "Get notified directly on the Telegram app on iPhone and Android."
+            },
+            "block5": {
+              "title": "Discord Webhook",
+              "desc": "Be notified on your server with the same name and avatar of the robot which changes status."
+            }
+          }
+        }
+      }
+    },
+    "guild_settings": {
+      "forms": {
+        "form-group1": {
+          "title": "Robot language",
+          "langList": [
+            "English",
+            "French",
+            "German",
+            "Spanish",
+            "Portuguese",
+            "Italian"
+          ]
+        },
+        "form-group2": {
+          "title": "Delay before sending alerts",
+          "delayList": [
+            "Instantly (0min)",
+            "1min",
+            "2mins",
+            "3mins",
+            "4mins",
+            "5mins",
+            "6mins",
+            "7mins",
+            "8mins",
+            "9mins",
+            "10mins",
+            "20mins"
+          ]
+        },
+        "form-group3": {
+          "title": "Watchbot Developers",
+          "btn": "\uD83D\uDC40 See my API key"
+        }
+      }
+    },
+    "guild_vip": {
+      "title": "Wow! Boost your experience",
+      "desc": [
+        "Unlock all Watchbot features",
+        "No direct debit"
+      ],
+      "vipTrial": {
+        "title": "Watchbot VIP is for everyone!",
+        "button": "Start my 7 day free trial"
+      },
+      "sub": {
+        "title": "Subscription and Billing",
+        "sub": "Subscription",
+        "dueDate": "Due date:"
+      },
+      "blocks": {
+        "rec": "per month",
+        "billtxt1": "billed monthly",
+        "billtxt6": "billed every 6 months",
+        "reco": "Recommended",
+        "payment": ["Payment", "with PayPal"]
+      },
+      "advantages": {
+        "table": {
+          "title": "Look at the advantages that will be offered to you.",
+          "head": ["Plans comparison", "Free", "VIP", "VIP+"],
+          "lines": [
+            "Number of robots monitored",
+            "Webstatus",
+            "Webstatus - VanityURL",
+            "Channel Alerts",
+            "Channel Alerts - Embed",
+            "Directs Messages Alerts",
+            "Email Alerts",
+            "Telegram Alerts",
+            "Discord Webhook Alerts",
+            "'WSync' system",
+            "Incident management on your Page Bot*",
+            "Robot shutdown history*",
+            "Personnalisation de votre Page Bot*",
+            "Bot Page - Vanity URL*",
+            "[API] Retrieve your robots' disconnection information*"
+          ],
+          "erratum": [
+            "*You must have a robot",
+            "certified by Watchbot"
+          ]
+        }
+      }
+    },
+    "guild_watchlist_bots": {
+      "title": "Watchlist Bots",
+      "alert": {
+        "title": "Alert !",
+        "desc": ["You have exceeded the robot limit included in your offer. Please", "change offers", "or remove robots from your watchlist."]
+      },
+      "forms": {
+        "form-group1": {
+          "title": "Add a robot to monitoring",
+          "btn": "Add"
+        },
+        "form-group2": {
+          "title": "Watchlist",
+          "modalHelp": "Note that when you activate / deactivate alerts in the table below, you must ensure that you have configured the alerts beforehand.",
+          "tableHead": [
+            "Channel Alerts",
+            "DM Alerts",
+            "Email Alerts",
+            "Telegram Alerts",
+            "Webhook Alerts"
+          ]
+        }
+      }
+    },
+    "guild_webstatus": {
+      "title": "Webstatus",
+      "btn": "Save",
+      "forms": {
+        "form-group1": {
+          "title": "Activate Webstatus",
+          "span": ["Code", "(Optional)"]
+        },
+        "form-group2": {
+          "title": "Vanity URL"
+        }
+      }
+    },
+    "guild_wsync": {
+      "title": "WSync",
+      "forms": {
+        "form-group1": {
+          "title": "Activate WSync"
+        },
+        "form-group2": {
+          "temp": "This system is (for the moment) available for 25 bots only",
+          "title": "Edit the channel where the embed will be sent",
+          "select": "Please select a channel"
+        },
+        "form-group3": {
+          "title": "Edit the embed color"
+        },
+        "form-group4": {
+          "title": "Preview (Example)",
+          "embed": {
+            "title": "Applications under surveillance: 1",
+            "fields": [
+              ["Bot#1234", "ONLINE", "98% (Last 7 days)"]
+            ],
+            "footer": ["Last update:", "Today 6:42pm"]
+          }
+        }
+      }
+    }
+  },
+  "forms": {
+    "pop-up": {
+      "warnings": {
+        "emptyFields": ["Some fields are empty", "Oups!"]
+      },
+      "errors": {
+        "error": ["An error has occured please refresh the page or try again later", "Oh!"]
+      },
+      "success": {
+        "formSent": ["Your application has been sent", "Good!"]
+      }
+    },
+    "bots": {
+      "title": "Bot Certification Application",
+      "btn": "Send",
+      "back": "Back",
+      "userInfo": {
+        "welcome": "Hi,",
+        "tag": "Username",
+        "email": "Email"
+      },
+      "fields": {
+        "email": "Email address",
+        "owner": "Owner ID",
+        "bot": "Bot ID",
+        "support": "Support Server ID",
+        "support_invite": "Support Server Invite",
+        "terms": [
+          "By clicking on \"Send\" you submit the above information to Watchbot",
+          "who will use them to send them to the team who will take care of your certification request. You will receive an email notification to know if your request has been accepted or declined (check your SPAM regularly). Your details will not be used or shared for any other purpose. You have a right to request the portability of your information, as well as the right to withdraw your consent at any time, and to refuse or request the limitation of the processing of your personal data. For more information, we invite you to email us at certifiers@watchbot.app"
+        ]
+      },
+      "sent": {
+        "title": "Sent!",
+        "desc": "Your application has been sent, you will receive an answer in your mailbox in a few days."
+      }
+    }
+  },
+  "login": {
+    "title": "Welcome to the Watchbot website",
+    "desc": "Login to continue...",
+    "button": "Login with Discord"
+  }
+}

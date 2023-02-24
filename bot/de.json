@@ -1,0 +1,59 @@
+{
+  "monitor": {
+    "nothingbot": "Derzeit wird kein Bot überwacht.",
+    "nothingmachines": "Derzeit wird keine Maschine überwacht",
+    "appunderS": "Zu überwachende Applicationen: ",
+    "munderS": "Zu überwachende Maschinen: ",
+    "last7days": "letzten 7 Tage",
+    "noresult": "Keine Ergebnisse gespeichert",
+    "err_shards": "Shard Fehler",
+    "uns_shards": "Shards instabil",
+    "lotofbots": "Du hast mehr als 25 Bots in der Überwachung und kann sie nicht zeigen. Um sie zu sehen, gehe zum Watchbot Dashboard.",
+    "wsyncFooter": "Last update:"
+  },
+  "help": {
+    "title": "Watchbot - Befehlsliste",
+    "desc": "**HINWEIS :** Du musst `Server verwalten` Berechtigung zum ausführen von Befehlen haben. Konfiguriere den Bot auf [Watchbot Dashboard](https://watchbot.app/dashboard)",
+    "addField3": "Management Befehle",
+    "descField3": ":white_small_square: `{PREFIX}watchlist` : Liste von Bots, die überwacht werden\n:white_small_square: `{PREFIX}nickname` : Setzt den Nicknamen vom Bot",
+    "addField5": "andere Befehle [Keine Berechtigungen erforderlich]",
+    "descField5": ":white_small_square: `{PREFIX}invite` : Link zum Watchbot Dashboard\n:white_small_square: `{PREFIX}support` : Generiere einen Link zum Support Server\n:white_small_square: `{PREFIX}info` : Sehe Informationen vom Bot\n:white_small_square: `{PREFIX}account` : Sehe deine Informationen\n:white_small_square: `{PREFIX}partners` : Sehe unsere Partner",
+    "sent": ":books: | **{user}**, du hast die Befehle in den Direktnachrichten erhalten\n:white_small_square: **Support Server :** {link_support}",
+    "error_send": "Ein Fehler ist aufgetreten, bitte akiviere deine Direktnachrichten."
+  },
+  "presenceUpdate": {
+    "is": "ist",
+    "on": "on",
+    "offbot": "OFFLINE",
+    "onbot": "ONLINE",
+    "dm_title": "Watchbot - Notification",
+    "contact": "Wenn Sie Fragen haben, können Sie eine Anfrage erstellen unter"
+  },
+  "mod_titre_embed": {
+    "Field1": "aktuelle Einstellung",
+    "Field2": "modifiziere den Parameter"
+  },
+  "account": {
+    "titre": "Account Informationen",
+    "Field1": "DM Benachrichtigungen",
+    "Field2": "E-Mail Benachrichtigungen",
+    "Field3": "SMS Benachrichtigungen",
+    "status": [
+      "aktiviert",
+      "deaktiviert"
+    ]
+  },
+  "info": {
+    "support": "Support Server",
+    "creator": "Ersteller",
+    "guilds": "Server",
+    "users": "Nutzer",
+    "links": "Unsere Links",
+    "surveillance": "Überwachungsziele"
+  },
+  "nickname": {
+    "confirm": "Neuer Nickname :",
+    "err": "Ich habe keine Berechtigung meinen Nicknamen zu ändern.",
+    "errL": "Mein Nickname darf incht mehr als 32 Zeichen lang sein."
+  }
+}

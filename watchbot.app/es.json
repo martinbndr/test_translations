@@ -1,0 +1,1103 @@
+{
+  "site": {
+    "header": {
+      "moni": "Monitorización",
+      "cert": "Certificación",
+      "vip": "VIP",
+      "login": "Conexión",
+      "logout": "Deconectarse",
+      "servers": "Mis servidores"
+    },
+    "footer": {
+      "column1": {
+        "title": "Bot",
+        "element": [
+          "Dashboard",
+          "VIP"
+        ]
+      },
+      "column2": {
+        "title": "Recursos",
+        "element": [
+          "Support",
+          "Monitorización",
+          "Certificación",
+          "Desarrolladores"
+        ]
+      },
+      "column3": {
+        "title": "Grupo",
+        "element": [
+          "Mareel Group"
+        ]
+      },
+      "column4": {
+        "title": "Cartas",
+        "element": [
+          "Condiciones",
+          "Confidentialidad"
+        ]
+      }
+    },
+    "home": {
+      "titlePage": "Watchbot",
+      "title": {
+        "title": "¡Controla los bots en tu servidor de Discord!\n",
+        "desc": [
+          "Configure Watchbot en 5 minutos con nuestra interfaz rápida e intuitiva.",
+          "GRATIS"
+        ],
+        "buttons": [
+          "Añadir en tu servidor\n",
+          "Ver características"
+        ]
+      },
+      "trust": {
+        "title": "Confían en nosotros"
+      },
+      "pres": {
+        "block1": {
+          "title": "Diferentes sistemas de notificación",
+          "desc": "Poseemos 5 tipos de notificación: Canal de Discord, Mensaje Privado, Email, par l'application Telegram o Webhook de Discord"
+        },
+        "block2": {
+          "title": "Página de estado",
+          "desc": "Con la ayuda de Watchbot, podrá ver el tiempo de actividad de un robot y ver sus incidencias en los últimos 90 días."
+        }
+      },
+      "lang": {
+        "title": "Watchbot está disponible en estos idiomas :",
+        "desc": [
+          "Actualmente, estamos pendientes de",
+          "servidores para casi",
+          "usuarios."
+        ]
+      },
+      "partners": {
+        "title": "Socios",
+        "btn": "Más"
+      }
+    },
+    "certification": {
+      "titlePage": " Certificación de bots - Watchbot",
+      "title": {
+        "title": "Haaz que tu comunidad sepa que eres tú",
+        "desc": "Obtenga la certificación de su robot y demuestre a todos que es un robot oficial.",
+        "btn": "Aplique"
+      },
+      "pblocks": {
+        "block1": {
+          "title": "Demuestra a los demás que no estás jugando en el mismo patio",
+          "desc": "Tener la insignia 'Certificado' en la página de su bot."
+        },
+        "block2": {
+          "title": "Manténgase al corriente del tiempo de inactividad de tu robot",
+          "desc": "Observa las paradas de tu robot para vigilarlo. ¡Tú eres el jefe!"
+        },
+        "block3": {
+          "title": "Notifique a su comunidad en caso de incidente",
+          "desc": "Cree incidentes para mantener a su comunidad al día y explicar los problemas en tiempo real."
+        }
+      },
+      "faq": {
+        "title": "FAQ",
+        "questions": {
+          "question1": {
+            "title": "Soy fan de un bot pero no soy su propietario, ¿puedo certificarlo?",
+            "response": "No, únicamente el propretario puede certificarlo.."
+          },
+          "question2": {
+            "title": "¿Qué necesito para certificar mi robot?",
+            "response": "Para conseguir la certificación de tu robot, debes al menos añadir Watchbot a tu servidor, para el resto nos arreglaremos juntos ;)"
+          },
+          "question3": {
+            "title": "Tengo una pregunta, ¿dónde puedo contactarles?",
+            "response": "Puede ponerse en contacto con nosotros directamente en"
+          }
+        }
+      }
+    },
+    "monitoring": {
+      "titlePage": "Monitorización – Watchbot",
+      "title": {
+        "title": "El mejor bot de vigilancia.",
+        "desc": [
+          "Comienza a supervisar tus bots y sea notificado",
+          "el más rápidamente posible",
+          "en caso de incidente"
+        ],
+        "btn": "Añadir al Discord"
+      },
+      "pres": {
+        "block1": {
+          "title": "WSync",
+          "desc": "Wsync, un bonito mensaje llamado 'embed' en tu canal favorito que se refresca cada 5 minutos con las últimas actualizaciones. ¡Sé el rey de la monitorización!"
+        },
+        "block2": {
+          "title": "Diferentes sistemas de notificación",
+          "desc": "Poseemos 5 tipos de notificación: Canal de Discord, Mensaje Privado, Email, par l'application Telegram o Webhook de Discord."
+        },
+        "block3": {
+          "title": "Página de estado",
+          "desc": "Gracias a Watchbot, podrá ver el tiempo de actividad de un robot y ver sus incidencias en los últimos 90 días."
+        },
+        "block4": {
+          "title": "Webstatus",
+          "desc": "Comparta con sus miembros la lista de bots monitorizados por Watchbot en su servidor y obtenga el uptime de actividad de los 90/30/7 días."
+        }
+      }
+    },
+    "vip": {
+      "titlePage": "VIP – Watchbot",
+      "title": {
+        "title": "Watchbot VIP.",
+        "desc": "Aumente su experiencia con Watchbot a un bajo precio. ¡Disfruta del 100% de las funciones de Watchbot!"
+      },
+      "prices": {
+        "desc": "mensualmente",
+        "trial": "7 días gratis",
+        "billtxt1": "billed monthly",
+        "billtxt6": "billed every 6 months",
+        "reco": "Recomendado",
+        "block1": {
+          "btn": "Obtenga la oferta VIP"
+        },
+        "block2": {
+          "btn": "Obtenga la oferta VIP+"
+        }
+      },
+      "table": {
+        "title": "Fíjese en las prestaciones que se le ofrecerán.",
+        "head": [
+          "Comparación de ofertas",
+          "Gratis",
+          "VIP",
+          "VIP+"
+        ],
+        "lines": [
+          "Número de robots supervisados",
+          "Webstatus",
+          "Webstatus - VanityURL",
+          "Alertas del canal",
+          "Alertas del canal - Embed",
+          "Alertas de mensajes privados",
+          "Alertas Email",
+          "Alertas Telegram",
+          "Alertas Webhook Discord",
+          "Sistema 'WatchCord'",
+          "Gestión de incidencias en su página Bot*",
+          "Historial de apagado de robots*",
+          "Personalizar la página del bot*",
+          "Página Bot - Vanity URL*",
+          "[API] Recuperar la información de desconexión de sus robots*"
+        ],
+        "erratum": [
+          "*Debe tener un robot",
+          "Certificado por Watchbot"
+        ]
+      }
+    },
+    "gift": {
+      "title": "¡Oh! Recibiste un regalo",
+      "serveurs": "Seleccione un servidor",
+      "noserveurs": "No se han encontrado servidores en esta cuenta Discord",
+      "button": "Añadir"
+    },
+    "terms": {
+      "titlePage": "Condiciones de servicio - Watchbot",
+      "title": "Watchbot Condiciones de servicio",
+      "articles": [
+        {
+          "title": "Artículo 1: Presentación",
+          "text": [
+            "Bienvenido al sitio web de Watchbot. Estas condiciones de uso son un acuerdo legal entre",
+            "y usted. Al navegar, utilizar y visitar el sitio\n",
+            "y sus aplicaciones de tercios, usted acepta tener la mayoría digital en su país y haber leído la",
+            "Discord Inc. Condiciones de servicio"
+          ]
+        },
+        {
+          "title": "Artículo 2: Contenido de este sitio web",
+          "text": [
+            "El sitio web y cada uno de sus elementos, marcas, logos, infografías, fotografías, que lo componen están protegidos por la legislación internacional de propiedad intelectual.",
+            "Algunos iconos del sitio pertenecen a\n",
+            "y están protegidos por una",
+            "Licencia universal de multimedia\n",
+            "Cualquier reproducción, representación, modificación, publicación, adaptación de la totalidad o parte de los elementos del sitio, cualquiera que sea el medio o proceso utilizado, está prohibido sin el consentimiento previo por escrito del Mareel Group.\n"
+          ]
+        },
+        {
+          "title": "Artículo 3: Uso\n",
+          "text": [
+            "El sitio se ofrece en diferentes lenguajes web como HTML, CSS, etc... Para una mejor comodidad del uso y unos gráficos más agradables, le recomendamos que utilice navegadores modernos como Safari, Google Chrome, Microsoft Edge, etc... El sitio utiliza una tecnología bajo JavaScript, si JavaScript está desactivado en su navegador, la navegación en el sitio será imposible para usted.\n",
+            "Mareel Group. hace todo lo posible por garantizar la fiabilidad de la información y la actualización de sus sitios web, por tanto, pueden producirse algunas errores.",
+            "Mareel Group. y sus filiales no son en absoluto responsables del uso que se haga de esta información, ni de los daños directos o indirectos."
+          ]
+        },
+        {
+          "title": "Artículo 4: Enlaces de hipertexto y uso de los cookies\n",
+          "text": [
+            "El sitio y sus subdominios contienen una serie de enlaces de hipertexto a otros sitios web. El sitio no tiene la capacidad de verificar el contenido de los sitios así visitados, por lo que no asume ninguna responsabilidad por este hecho.",
+            "La navegación por el sitio web puede provocar la instalación de cookies en el ordenador mismo del usuario. Un \"cookie\" es un archivo, de tamaño reducido, que no permite identificar al usuario, pero que registra información relativa a la navegación de un ordenador en un sitio web. Los datos así obtenidos pueden facilitar la navegación posterior en el sitio, y también están destinados a permitir diversas medidas de asistencia."
+          ]
+        },
+        {
+          "title": "Artículo 5: VIP\n",
+          "text": [
+            "Facturación:\n",
+            "Al adquirir el acceso VIP,  usted nos autoriza a facturar sólo durante 31 días. Su pago a Mareel Group. no se renovará automáticamente y tendrá que ir a Watchbot Dashboard para proceder al pago de un nuevo mes si lo desea.\n",
+            "Cancelación / Reembolso:\n",
+            "Cualquier compra realizada no es reembolsable ni cambiable, si ya no quiere un Watchbot VIP, tendrá que esperar hasta la fecha de vencimiento y no renovar el pago.\n"
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "titlePage": "Política de privacidad - Watchbot\n",
+      "title": "Watcbot Política de privacidad",
+      "articles": [
+        {
+          "title": "Artículo 1: ¿Por qué y cómo recogemos sus datos?\n",
+          "text": [
+            "Watchbot proporciona principalmente una aplicación automatizada de chat y plataformas sociales (la \"aplicación\"), gestionable a través de nuestro sitio web (el \"sitio\", \"Watchbot Dashboard\", el \"Dashboard\") y operada por Watchbot Staff (\"Watchbot Staff\", \"nosotros\") para los usuarios del servicio Wtachbot (\"usted\"). La presente política de privacidad establece nuestra política con respecto a la información recogida de los usuarios de la aplicación. Watchbot Staff es el \"controlador\" de los datos personales recogidos durante el uso de la aplicación."
+          ]
+        },
+        {
+          "title": "Artículo 2: ¿Qué información recogemos?\n",
+          "text": [
+            "Cuando usted interactúa con nosotros a través del Dashboard, podemos recoger información sobre usted, como se describe con más detalle a continuación. Recogemos información sobre usted cuando nos la proporciona voluntariamente. Por ejemplo, cuando publica una solicitud de certificación o cuando realiza una compra. La información que recopilamos puede incluir, pero no se limita a:",
+            "Datos del usuario :\n",
+            "Recojemos el ID de usuario, la dirección de correo electrónico cuando usted publica una solicitud de certificación. Almacenamos también su ID de usuario cuando realiza una compra o cuando inicia una prueba gratuita de nuestros productos en nuestro sitio.\n",
+            "Datos de sus servidores :",
+            "Almacenamos su ID de servidor, ID de propietario, ID de canal. Cuando usted realiza una compra en nuestro sitio, también recojemos y guardamos su ID de servidor.\n",
+            "Datos de PayPal :\n",
+            "Guardamos su dirección de correo electrónico, el identificador de pago, su DNI, su nombre y sus apellidos.\n"
+          ]
+        },
+        {
+          "title": "Artículo 3: ¿Dónde se tratan nuestros datos?\n",
+          "text": [
+            "Watchbot Staff se localiza en Francia. Usted consiente el tratamiento y la transferencia de sus datos en Francia. Las leyes de Francia y de otros países que rigen la recopilación y el uso de los datos pueden no ser tan completas o protectoras como las leyes del país donde usted vive. Nuestros servidores están situados en Francia (Roubaix, París y Niza).\n"
+          ]
+        },
+        {
+          "title": "Artículo 4: ¿Qué hacemos con sus datos?\n",
+          "text": [
+            "Utilizamos la información que nos proporciona de forma coherente con esta política de privacidad. Utilizamos sus datos para:\n",
+            "- Permitir que los datos y la configuración se guardan de manera segura bajo una cuenta.\n",
+            "- Cumplir con los requisitos legales\n",
+            "Sus datos no serán vendidos. "
+          ]
+        },
+        {
+          "title": "Artículo 5: ¿Cuánto tiempo almacenamos sus datos?\n",
+          "text": [
+            "Todos sus datos guardados en nuestros servidores permanecerán allí mientras utilice nuestros servicios.\n"
+          ]
+        },
+        {
+          "title": "Artículo 6: ¿Preguntas?\n",
+          "text": [
+            "Si tiene alguna pregunta sobre nuestra política de privacidad, puede escribir un correo electrónico a\n"
+          ]
+        }
+      ]
+    },
+    "cookies": {
+      "author": ["Watchbot", "una subsidiaria de Mareel Group."],
+      "title": "Antes de acceder a Watchbot",
+      "text": [
+        "Mareel Group. utiliza cookies y otros datos para :",
+        "Medir las estadísticas del sitio para comprender cómo se utilizan nuestros servicios."
+      ],
+      "button": "De acurdo"
+    }
+  },
+  "dashboard": {
+    "header": {
+      "plug": "Plugins",
+      "sett": "Ajustes",
+      "vip": "VIP",
+      "login": "Conexión",
+      "logout": "Desconectarse"
+    },
+    "pop-up": {
+      "warnings": {
+        "emptyFields": [
+          "Algunos campos están vacíos",
+          "¡Uy!"
+        ],
+        "incorrectUserID": [
+          "Usuario ID incorrecta",
+          "¡Uy!"
+        ],
+        "alertsFull": [
+          "Limite des alertes atteinte",
+          "Oups !"
+        ],
+        "chatTelegramDisabled": [
+          "Watchbot n'est pas présent dans ce chat",
+          "Oups !"
+        ],
+        "vanityAlreadyExist": [
+          "This VanityURL already exists",
+          "Oups!"
+        ],
+        "termsNotValid": [
+          "Usted no ha acceptado nuestra política",
+          "¡Ay!"
+        ]
+      },
+      "errors": {
+        "error": [
+          "Se ha producido un error, por favor, actualice la página o inténtelo más tarde.",
+          "¡Oh!"
+        ],
+        "watchlistLimit": [
+          "Ha llegado al límite de su lista de vigilancia",
+          "¡Oh!"
+        ],
+        "noWebhook": [
+          "Parece que Watchbot no puede ver/gestionar los Webhooks de este canal",
+          "¡Oh!"
+        ],
+        "noCNAME": [
+          "Se ha producido un problema al leer sus registros CNAME. Asegúrese de que ha añadido correctamente el registro CNAME solicitado a su dominio.",
+          "¡Oh!"
+        ]
+      },
+      "info": {
+        "wait": [
+          "Por favor, espere...",
+          "¡Un instante!"
+        ],
+        "wsyncUpdate": [
+          "Espera hasta el próximo refresco.",
+          "¡Oye!"
+        ]
+      },
+      "success": {
+        "allSaved": [
+          "Se han guardado todos los cambios",
+          "¡Genial!"
+        ],
+        "botAdded": [
+          "El robot se ha añadido con éxito",
+          "¡Genial!"
+        ],
+        "botDeleted": [
+          "El robot se ha suprimido con éxito",
+          "¡Genial!"
+        ],
+        "incidentCreated": [
+          "El incidente ha sido añadido con éxito",
+          "¡Genial!"
+        ],
+        "incidentDeleted": [
+          "El incidente ha sido suprimido con éxito",
+          "¡Genial!"
+        ],
+        "statusCreated": [
+          "El estado ha sido creado con éxito",
+          "¡Genial!"
+        ],
+        "statusDeleted": [
+          "El estado ha sido suprimido con éxito",
+          "¡Genial!"
+        ],
+        "memberAdded": [
+          "LEl miembro ha sido añadido con éxito",
+          "¡Genial!"
+        ],
+        "memberDeleted": [
+          "El miembro ha sido suprimido con éxito",
+          "¡Genial!"
+        ],
+        "emailAdded": [
+          "El Email ha sido añadido con éxito",
+          "¡Genial!"
+        ],
+        "emailDeleted": [
+          "El Email ha sido suprimido con éxito",
+          "¡Genial!"
+        ],
+        "telegramAdded": [
+          "Le chat a été ajouté avec succès",
+          "Super !"
+        ],
+        "telegramDeleted": [
+          "Le chat a été supprimé avec succès",
+          "Super !"
+        ],
+        "wsyncSent": [
+          "WSync ha sido creado con éxito",
+          "¡Genial!"
+        ],
+        "wsyncDeleted": [
+          "WSync ha sido suprimido con éxito",
+          "¡Genial!"
+        ],
+        "domainAdded": [
+          "Dominio registrado, disponible dentro de 5 minutos y 48 horas",
+          "¡Genial!"
+        ],
+        "vipTrialAdded": [
+          "¡Bienvenido al programa VIP de Watchbot! Disfruta de tu prueba durante 7 días.",
+          "¡Genial!"
+        ]
+      },
+      "popSave": {
+        "txt": "Se han detectado cambios. Por favor, guarda.",
+        "btn_cancel": "Anular",
+        "btn_save": "Guardar"
+      },
+      "modalVip": {
+        "title": "Watchbot VIP",
+        "desc": "Has descubierto una característica VIP",
+        "btns": {
+          "vip": "VIP",
+          "no": "No, gracias"
+        }
+      }
+    },
+    "dashboard": {
+      "serveurs": "Seleccione un servidor",
+      "noserveurs": "No se han encontrado servidores en esta cuenta Discord",
+      "bots": "Seleccione un Bot",
+      "nobots": "No se ha encontrado ningún bot en esta cuenta de Discordia",
+      "btns": {
+        "manage": "Gestionar",
+        "invite": "Invitar"
+      }
+    },
+    "bot_customization": {
+      "title": "Personalización de la página",
+      "btns": {
+        "save": "Guardar",
+        "default": "Por defecto"
+      },
+      "column1": [
+        "Color de fondo",
+        "Imagen de fondo (opcional)",
+        "Texto del color del bandera Bot",
+        "Color del texto del Tag del robot",
+        "Color del texto",
+        "Color del texto de los incidentes",
+        "Color de los anuncios"
+      ],
+      "column2": [
+        "SEO - Color del tema"
+      ]
+    },
+    "bot_history": {
+      "title": "Historia",
+      "form-group": {
+        "title": "Historial (últimos 30 días)",
+        "tableHead": [
+          "Fecha",
+          "Duración"
+        ]
+      }
+    },
+    "bot_incidents": {
+      "title": "Incidentes",
+      "form-group": {
+        "title": "Lista de incidentes",
+        "btn": "Añadir un incidente",
+        "table": {
+          "tableHead": [
+            "ID",
+            "Fecha",
+            "Tipo",
+            "Título",
+            "Acciones"
+          ]
+        }
+      }
+    },
+    "bot_incidents_add": {
+      "title": [
+        "Incidentes",
+        "Añadir"
+      ],
+      "btn": "Crear",
+      "forms": {
+        "form-group1": {
+          "title": "Fecha del incidente"
+        },
+        "form-group2": {
+          "title": "Tipo del incidente",
+          "typeList": [
+            "Fallo parcial",
+            "Fallo mayor"
+          ]
+        },
+        "form-group3": {
+          "title": "Título del incidente"
+        }
+      }
+    },
+    "bot_incidents_edit": {
+      "title": "Incidentes",
+      "btns": {
+        "save": "Guardar",
+        "addStatus": "Añadir un estado"
+      },
+      "forms": {
+        "form-group1": {
+          "title": "Cambiar el tipo de incidente",
+          "typeList": [
+            "Fallo parcial",
+            "Fallo mayor"
+          ]
+        },
+        "form-group2": {
+          "title": "Modificar el título del incidente"
+        },
+        "form-group3": {
+          "title": "Lista de estados",
+          "tableHead": [
+            "ID",
+            "Insignia",
+            "Contenido",
+            "Acciones"
+          ]
+        }
+      }
+    },
+    "bot_overview": {
+      "pres": {
+        "metrics": {
+          "title": "Claves Métricas",
+          "blocks": {
+            "title": [
+              "Total de servidores en los que su bot está desconectado",
+              "Servidores totales que supervisan su Bot"
+            ]
+          }
+        },
+        "plugins": {
+          "title": "Página Bot",
+          "blocks": {
+            "block1": {
+              "title": "Incidentes",
+              "desc": "Crear / Editar / Borrar incidentes nunca ha sido tan fácil."
+            },
+            "block2": {
+              "title": "Historial",
+              "desc": "¿Qué días estuvo mi robot fuera de línea? ¡La respuesta está aquí!"
+            },
+            "block3": {
+              "title": "Personalización de la página",
+              "desc": "Cambia los colores de su página para hacerla aún más bonita."
+            },
+            "block4": {
+              "title": "Widgets",
+              "desc": "Una pequeña tarjeta que puede poner directamente en su página web, y muy simlemente."
+            }
+          }
+        }
+      }
+    },
+    "bot_settings": {
+      "forms": {
+        "form-group1": {
+          "title": "Creación automática de incidentes",
+          "listInciAuto": [
+            "No crear un incidente automáticamente",
+            "Crear un incidente cuando un shard se desconecta",
+            "Crear un incidente cuando todos los shard se desconectan"
+          ]
+        },
+        "form-group2": {
+          "title": "Anuncio"
+        },
+        "form-group3": {
+          "title": "Domaine personnalisé",
+          "tutorial": {
+            "desc": "Ajoutez cet enregistrement CNAME à votre domaine en visitant votre fournisseur DNS ou votre registar."
+          }
+        },
+        "form-group4": {
+          "title": "Watchbot Developers",
+          "btn": "👀 Mostar mi llave API"
+        }
+      }
+    },
+    "bot_status_add": {
+      "title": [
+        "Incidentes",
+        "Añadir"
+      ],
+      "btn": "Crear",
+      "forms": {
+        "form-group1": {
+          "title": "Insignia del incidente",
+          "listBadges": [
+            "Resuelto",
+            "En vigilancia",
+            "Buscando",
+            "Identifiacdo",
+            "Actualización"
+          ]
+        },
+        "form-group2": {
+          "title": "Contenido del estado"
+        }
+      }
+    },
+    "bot_status_edit": {
+      "title": "Incidentes",
+      "btn": "Guardar",
+      "forms": {
+        "form-group1": {
+          "title": "Cambiar la insignia de estado",
+          "listBadges": [
+            "Resuelto",
+            "En vigilancia",
+            "Buscando",
+            "Identifiacdo",
+            "Actualización"
+          ]
+        },
+        "form-group2": {
+          "title": "Modificar el contenido del estado"
+        }
+      }
+    },
+    "bot_widgets": {
+      "title": "Widgets",
+      "widgets": [
+        "Widget - Tema claro",
+        "Widget - Tema oscuro"
+      ]
+    },
+    "guild_alerts_channel": {
+      "title": "Alertas canal",
+      "selects": [
+        "Seleccione un canal",
+        "Seleccione un role"
+      ],
+      "btns": {
+        "save": "Guardar"
+      },
+      "forms": {
+        "form-group1": {
+          "title": "Activar Alertas de Canal"
+        },
+        "form-group2": {
+          "title": "Cambiar el canal en el que se le notificará"
+        },
+        "form-group3": {
+          "title": "Cambiar el role a mencionar"
+        },
+        "form-group4": {
+          "title": "Cambiar el miembro a mencionar",
+          "span": [
+            "Por favor, introduzca el",
+            "USERID"
+          ]
+        },
+        "form-group5": {
+          "title": "Personaliza su mensaje",
+          "varTitle": "Variables",
+          "variables": [
+            "Emoji Discord del estado del robot",
+            "Identificación del robot",
+            "Tag del robot",
+            "Mención del bot",
+            "Estado del bot",
+            "Página de estado del bot"
+          ],
+          "defaultMessage": "{emojis.status} | {bot.mention} ({bot.tag}) está actualmente **{bot.status}**",
+          "block": {
+            "titles": [
+              "Respuesta",
+              "Color del embed"
+            ],
+            "buttons": [
+              "Embed"
+            ],
+            "embed": {
+              "ph_title": "Texto del título",
+              "ph_title_url": "URL del título",
+              "ph_description": "Contenido del texto",
+              "ph_footer": "Texto a pie de página"
+            }
+          }
+        }
+      }
+    },
+    "guild_alerts_dm": {
+      "title": "Alertas de mensajes privados",
+      "btn": "Añadir",
+      "forms": {
+        "form-group1": {
+          "title": "Añadir un usuario a las alertas",
+          "btn": "Añadir"
+        },
+        "form-group2": {
+          "title": "Lista de usuarios alertados",
+          "tableHead": [
+            "User TAG",
+            "User ID",
+            "Acciones"
+          ]
+        }
+      }
+    },
+    "guild_alerts_email": {
+      "title": "Alertas  Email",
+      "btn": "Añadir",
+      "forms": {
+        "form-group1": {
+          "title": "Añadir un usuario a las alertas",
+          "span": [
+            "Por favor, introduzca el",
+            "USERID"
+          ]
+        },
+        "form-group2": {
+          "title": "Lista de usuarios alertados",
+          "tableHead": [
+            "Owner TAG",
+            "Owner ID",
+            "Email",
+            "Acciones"
+          ]
+        }
+      }
+    },
+    "guild_alerts_telegram": {
+      "title": "Alertas Telegram",
+      "btn": "Ajouter",
+      "forms": {
+        "form-group1": {
+          "title": "Ajouter un chat aux alertes",
+          "span": [
+            "Veuillez entrer le",
+            "CHAT_ID"
+          ]
+        },
+        "form-group2": {
+          "title": "Liste des chats alertés",
+          "tableHead": [
+            "Nom d'utilisateur / Groupe",
+            "Chat ID",
+            "Actions"
+          ]
+        }
+      }
+    },
+    "guild_alerts_webhook": {
+      "title": "Webhook Discord",
+      "btn": "Guardar",
+      "forms": {
+        "form-group1": {
+          "title": "Activar Webhook"
+        },
+        "form-group2": {
+          "title": "Cambiar el canal donde se enviarán las notificaciones",
+          "select": "Seleccione un canal"
+        },
+        "form-group3": {
+          "title": "Personalice su mensaje",
+          "varTitle": "Variables",
+          "variables": [
+            "Emoji Discord del estado del robot",
+            "Identificación del robot",
+            "Tag del robot",
+            "Mención del bot",
+            "Estado del bot",
+            "Página de estado del bot"
+          ],
+          "defaultMessage": "{emojis.status} | {bot.mention} ({bot.tag}) es **{bot.status}**",
+          "block": {
+            "titles": [
+              "Respuesta",
+              "Color del embed"
+            ],
+            "buttons": [
+              "Embed"
+            ],
+            "embed": {
+              "ph_title": "Texto del título",
+              "ph_title_url": "URL del título",
+              "ph_description": "Contenido del texto",
+              "ph_footer": "Texto a pie de página"
+            }
+          }
+        }
+      }
+    },
+    "guild_overview": {
+      "pres": {
+        "pres1": {
+          "title": "Usuarios",
+          "blocks": {
+            "block1": {
+              "title": "Watchlist Bots",
+              "desc": "Añada robots a la lista de vigilancia y reciba una notificación cuando se desconecten."
+            },
+            "block2": {
+              "title": "Webstatus",
+              "desc": "Obtenga una visión general de los robots monitorizados por Watchbot en su servidor y compártala con sus miembros."
+            },
+            "block3": {
+              "title": "WSync",
+              "desc": "Embed reactivo con el tiempo de actividad de sus robots refrescandose cada 5mins en su canal favorito."
+            }
+          }
+        },
+        "pres2": {
+          "title": "Alertas",
+          "blocks": {
+            "block1": {
+              "title": "Alertas Canal",
+              "desc": "¡Para ser alertado en su canal favorito!"
+            },
+            "block2": {
+              "title": "Alertas MP",
+              "desc": "Para ser notificado directamente en sus mensajes privados."
+            },
+            "block3": {
+              "title": "Alertas Email",
+              "desc": "Reciba una notificación en su buzón."
+            },
+            "block4": {
+              "title": "Telegram",
+              "desc": "Soyez notifié directement sur l'application Telegram sur iPhone et Android."
+            },
+            "block5": {
+              "title": "Webhook Discord",
+              "desc": "Recibe una notificación en tu servidor con el mismo nombre y avatar del robot que cambia de estado."
+            }
+          }
+        }
+      }
+    },
+    "guild_settings": {
+      "forms": {
+        "form-group1": {
+          "title": "Lengua del bot",
+          "langList": [
+            "Inglés",
+            "Francés",
+            "Alemán",
+            "Español",
+            "Portugués",
+            "Italiano"
+          ]
+        },
+        "form-group2": {
+          "title": "Retraso antes de enviar las alertas",
+          "delayList": [
+            "Instantáneamente (0min)",
+            "1min",
+            "2mins",
+            "3mins",
+            "4mins",
+            "5mins",
+            "6mins",
+            "7mins",
+            "8mins",
+            "9mins",
+            "10mins",
+            "20mins"
+          ]
+        },
+        "form-group3": {
+          "title": "Watchbot Developers",
+          "btn": "👀 Mostrar mi llave API"
+        }
+      }
+    },
+    "guild_vip": {
+      "title": "¡Vaya! Aumenta tu experiencia",
+      "desc": [
+        "Desbloquea todas las funciones de Watchbot",
+        "Sin domiciliación automática"
+      ],
+      "vipTrial": {
+        "title": "¡Watchbot VIP es para todos!",
+        "button": "Iniciar mi prueba gratuita de 7 días"
+      },
+      "sub": {
+        "title": "Suscripción y facturación",
+        "sub": "Suscripción",
+        "dueDate": "Fecha de entrega :"
+      },
+      "blocks": {
+        "rec": "mensualmente",
+        "billtxt1": "billed monthly",
+        "billtxt6": "billed every 6 months",
+        "reco": "Recomendado",
+        "payment": [
+          "Pago",
+          "con PayPal"
+        ]
+      },
+      "advantages": {
+        "table": {
+          "title": "Fíjese en las prestaciones que se le ofrecerán.",
+          "head": [
+            "Comparación de ofertas",
+            "Gratis",
+            "VIP",
+            "VIP+"
+          ],
+          "lines": [
+            "Número de robots supervisados",
+            "Webstatus",
+            "Webstatus - VanityURL",
+            "Alertas de canal",
+            "Alertas de canal - Embed",
+            "Alertas Mensajes privados",
+            "Alertas Email",
+            "Alertas Telegram",
+            "Alertas Webhook Discord",
+            "Sistema 'WatchCord'",
+            "Gestión de incidencias en su Page Bot*",
+            "Historia del cierre del robot*",
+            "Personalizar la página del bot*",
+            "Página Bot - Vanity URL*",
+            "[API] Recuperar la información de desconexión de sus robots*"
+          ],
+          "erratum": [
+            "*Debes tener un robot",
+            "Certificado por Watchbot"
+          ]
+        }
+      }
+    },
+    "guild_watchlist_bots": {
+      "title": "Watchlist Bots",
+      "alert": {
+        "title": "¡Alerta!",
+        "desc": [
+          "Has superado el límite de robots incluido en tu oferta. Por favor,",
+          "cambiar la oferta",
+          "o eliminar algunos robots de su lista."
+        ]
+      },
+      "forms": {
+        "form-group1": {
+          "title": "Añadir un robot a vigilar",
+          "btn": "Añadir"
+        },
+        "form-group2": {
+          "title": "Lista de vigilancia",
+          "modalHelp": "No se olvide que al activar/desactivar las alertas de la tabla siguiente, debe asegurarse de haber configurado previamente las alertas.",
+          "tableHead": [
+            "Alertas canal",
+            "Alertas MP",
+            "Alertas Email",
+            "Alertas Telegram",
+            "Alertas Webhook"
+          ]
+        }
+      }
+    },
+    "guild_webstatus": {
+      "title": "Webstatus",
+      "btn": "Guardar",
+      "forms": {
+        "form-group1": {
+          "title": "Activar Webstatus",
+          "span": [
+            "Código",
+            "(Opcional)"
+          ]
+        },
+        "form-group2": {
+          "title": "Vanity URL"
+        }
+      }
+    },
+    "guild_wsync": {
+      "title": "WSync",
+      "forms": {
+        "form-group1": {
+          "title": "Activar WSync"
+        },
+        "form-group2": {
+          "temp": "Este sistema está disponible (por el momento) unicamente para 25 bots",
+          "title": "Modificar el canal en el cual se enviará el embed",
+          "select": "Seleccione un canal"
+        },
+        "form-group3": {
+          "title": "Modificar el color del embed"
+        },
+        "form-group4": {
+          "title": "Vista general (Ejemplo)",
+          "embed": {
+            "title": "Aplicaciones bajo vigilancia: 1",
+            "fields": [
+              [
+                "Bot#1234",
+                "EN LÍNEA",
+                "98% (7 últimos días)"
+              ]
+            ],
+            "footer": [
+              "Última actualización:",
+              "Hoy 18:42"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "forms": {
+    "pop-up": {
+      "warnings": {
+        "emptyFields": [
+          "Algunos campos están vacíos",
+          "¡Uy!"
+        ]
+      },
+      "errors": {
+        "error": [
+          "Se ha producido un error, por favor, actualice la página o inténtelo más tarde.",
+          "¡Oh!"
+        ]
+      },
+      "success": {
+        "formSent": [
+          "Su solicitud ha sido enviada",
+          "¡Genial!"
+        ]
+      }
+    },
+    "bots": {
+      "title": "Solicitud de certificación de bots",
+      "btn": "Enviar",
+      "back": "Volver",
+      "userInfo": {
+        "welcome": "Hola,",
+        "tag": "Usuario",
+        "email": "Email"
+      },
+      "fields": {
+        "email": "Correo electrónico",
+        "owner": "Owner ID",
+        "bot": "Bot ID",
+        "support": "Servidor de soporte ID",
+        "support_invite": "Invitación Servidor de soporte",
+        "terms": [
+          "En cuando cuelgue en \"Enviar\", envía sus informaciones a Watchbot",
+          "qualquier lo utilizará para enviarlos al equipo que se ocupará de su solicitud de certificación. Recibirá una notificación por correo electrónico para saber si su solicitud ha sido aceptada o rechazada (revise su spam regularmente). Sus datos no serán utilizados ni compartidos, para cualquier otro fin. Tienen derecho a solicitarnos para hablar de sus informaciones así como a retirar su consentimiento en cualquier momento, y a denegar o solicitar la limitación del tratamiento de tus datos personales. Lo invitamos a enviarnos un correo electrónico a certifiers@watchbot.app"
+        ]
+      },
+      "sent": {
+        "title": "¡Enviada!",
+        "desc": "Su solicitud ha sido enviada, recibirá una respuesta por correo electrónico en algunos días.."
+      }
+    }
+  },
+  "login": {
+    "title": "Bienvenido al sitio web de Watchbot",
+    "desc": "Inicie sesión para continuar...",
+    "button": "Conectarse con Discord"
+  }
+}
