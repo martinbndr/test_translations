@@ -1,6 +1,6 @@
 {
   "monitor": {
-    "nothingbot": "Derzeit wird kein Bot überwacht. This is a test",
+    "nothingbot": "Derzeit wird kein Bot überwacht.",
     "nothingmachines": "Derzeit wird keine Maschine überwacht",
     "appunderS": "Zu überwachende Applicationen: ",
     "munderS": "Zu überwachende Maschinen: ",
